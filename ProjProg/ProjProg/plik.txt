@@ -4,7 +4,7 @@ Druzyna3 1
 Druzyna4 1
 Druzyna5 1
 Druzyna6 1
-Druzyna7 1
+Druzyna7 4
 Druzyna8 1
 Druzyna9 2
 Druzyna10 2
@@ -28,5 +28,5 @@ Druzyna27 4
 Druzyna28 4
 Druzyna29 4
 Druzyna30 4
-Druzyna31 4
+Druzyna31 1
 Druzyna32 4
