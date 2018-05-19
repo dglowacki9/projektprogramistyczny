@@ -1,6 +1,4 @@
-﻿  stdafx.cpp
-  ProjProg.cpp
-c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(181): warning C4101: "k": lokalna zmienna, do której nie istnieje odwołanie
-c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(385): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(72): warning C4715: "strzelenie_goli”: niewszystkie ścieżki kodu zwracają wartość
+﻿  ProjProg.cpp
+c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(646): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(71): warning C4715: "strzelenie_goli”: niewszystkie ścieżki kodu zwracają wartość
   ProjProg.vcxproj -> C:\Users\Lenovo\Desktop\Studia\4 semestr\Projekt Programistyczny\GIT\ProjProg\Debug\ProjProg.exe

@@ -1,0 +1,27 @@
+Wyjœcie z grupy:
+
+1) Liczba punktów zdobytych przez dru¿yny w bezpoœrednich meczach rozegranych miêdzy nimi.
+2) Bilans bramek dru¿yn z uwzglêdnieniem meczów, które rozegra³y one miêdzy sob¹.
+3) Liczba strzelonych bramek przez dru¿yny – równie¿ w meczach, które rozegra³y miêdzy sob¹.
+4) Je¿eli po rozpatrzeniu punktów 1-3 dwie dru¿yny ci¹gle zajmuj¹ ex-aequo jedno miejsce, punkty 1) do 3) rozpatruje siê ponownie dla tych dwóch dru¿yn, aby ostatecznie ustaliæ ich pozycje w grupie. Jeœli ta procedura nie wy³oni zwyciêzcy, stosuje siê po kolei punkty od 5 do 7.
+5) Bilans bramek obu dru¿yn, z uwzglêdnieniem wszystkich meczów w grupie.
+6) Liczba strzelonych bramek przez obie dru¿yny we wszystkich meczach w grupie.
+7) Losowanie
+
+
+
+czerwone/¿ó³te kartki
+faule
+90/15min 
+
+28 zajêcia 
+
+
+2. Bilans bramek uzyskany we wszystkich meczach grupowych;
+3. Liczba goli strzelonych przez dru¿yny we wszystkich meczach grupowych.
+
+Jeœli dwa lub wiêcej zespo³ów maj¹ tyle samo puktów, taki sam stosunek bramek i tak¹ sam¹ liczbê bramek strzelonych, kolejnoœæ ustala siê w nastêpuj¹cy sposób:
+a) liczba punktów uzyskanych w meczach miêdzy zainteresowanymi dru¿ynami
+b) bilans bramek po meczach miêdzy zainteresowanymi dru¿ynami
+c) liczba bramek strzelonych w meczach miêdzy zainteresowanymi dru¿ynami
+d) losowanie
