@@ -1,4 +1,5 @@
 ﻿  ProjProg.cpp
-c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(646): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(71): warning C4715: "strzelenie_goli”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(737): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(753): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\lenovo\desktop\studia\4 semestr\projekt programistyczny\git\projprog\projprog\projprog.cpp(759): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
   ProjProg.vcxproj -> C:\Users\Lenovo\Desktop\Studia\4 semestr\Projekt Programistyczny\GIT\ProjProg\Debug\ProjProg.exe
